@@ -1,10 +1,11 @@
-**#1.download rclone in your operating system** _download link=_ https://rclone.org/downloads/
+**1.download rclone in your operating system** _download link=_ https://rclone.org/downloads/
 
-**#2.Open Rclone download Folder**
+
+**2.Open Rclone download Folder**
 
 ![Screenshot 2021-04-01 114810](https://user-images.githubusercontent.com/67457538/113258946-35599d00-92ea-11eb-96ab-c0bb0eb01b08.png)
 
-**#3.click on location like this,**
+**3.click on location like this,**
 
 ![Screenshot 2021-04-01 115439](https://user-images.githubusercontent.com/67457538/113259050-53bf9880-92ea-11eb-97b4-fdc2e0a185ff.png)
 
@@ -26,7 +27,7 @@
 
 ![Screenshot 2021-04-01 120644](https://user-images.githubusercontent.com/67457538/113259377-ae58f480-92ea-11eb-9d41-e1b9dcff6085.png)
 
-**9.Then you will redirct **
+**9.Then you will redirct**
 
 
 **10.After sucessfully authenticade onedrive it will show "SUCESS"**
@@ -35,11 +36,19 @@
 
 **11.Then go back to cmd**
 
-**12.Copy the token **
+```diff  + **12.Copy the token ** ```
 
 ![Screenshot 2021-04-01 120523](https://user-images.githubusercontent.com/67457538/113259514-d6485800-92ea-11eb-9c67-80e702275809.png)
 
 
 ```diff 
 - DONE !
+```
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
 ```
