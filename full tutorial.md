@@ -69,11 +69,14 @@ sinhala=https://colab.research.google.com/github/jakiya99/torrent-to-onedrive-si
 
 
 
-16.Type '23' (storage onedrive)![Screenshot 2021-04-02 093035](https://user-images.githubusercontent.com/67457538/113387412-e5420f80-93a9-11eb-877e-7f48530308f7.png)
-
-
+16.Type '23' (storage onedrive)
 
 ![Screenshot 2021-04-02 093003](https://user-images.githubusercontent.com/67457538/113387337-c04d9c80-93a9-11eb-814e-908d1b2844eb.png)
+
+
+
+![Screenshot 2021-04-02 093035](https://user-images.githubusercontent.com/67457538/113387412-e5420f80-93a9-11eb-877e-7f48530308f7.png)
+
 
 17.Hit enter (dont type anything just a blank)
 
