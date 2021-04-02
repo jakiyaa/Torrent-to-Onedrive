@@ -55,11 +55,17 @@
 
 14.type 'n' (newremote)
 
+
 ![Screenshot 2021-04-02 092846](https://user-images.githubusercontent.com/67457538/113387206-782e7a00-93a9-11eb-8db9-61cea1f0ffb0.png)
+
+
 
 15.type 'onedrive' 
 
+
 ![Screenshot 2021-04-02 092914](https://user-images.githubusercontent.com/67457538/113387299-a90eaf00-93a9-11eb-97cc-7f21e6165abe.png)
+
+
 
 16.Type '23' (storage onedrive)![Screenshot 2021-04-02 093035](https://user-images.githubusercontent.com/67457538/113387412-e5420f80-93a9-11eb-877e-7f48530308f7.png)
 
