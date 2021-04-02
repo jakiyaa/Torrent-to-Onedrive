@@ -1,5 +1,7 @@
 
 1.Go to this link and open colab project
+English=https://colab.research.google.com/github/jakiya99/Torrent-to-Onedrive/blob/main/new_torrents_download_to_onedrive.ipynb
+sinhala=https://colab.research.google.com/github/jakiya99/torrent-to-onedrive-sinhala/blob/main/new_torrents_download_to_onedrive_sinhalen.ipynb
 
 ![Screenshot 2021-04-02 092056 - Copy](https://user-images.githubusercontent.com/67457538/113385750-5bdd0e00-93a6-11eb-9718-ef41356ee373.png)
 
@@ -167,7 +169,10 @@ paste magnet/torrent link and hit enter
 ![Screenshot 2021-04-02 103431](https://user-images.githubusercontent.com/67457538/113388436-da887a00-93ab-11eb-9aca-c2c170d4e50a.png)
 
 
-
+```diff 
+- DONE !
+- D O N E !
+```
 
 
 
