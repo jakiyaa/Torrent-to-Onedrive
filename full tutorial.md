@@ -1,75 +1,54 @@
 
-1.Go to this link and open colab project
-English=https://colab.research.google.com/github/jakiya99/Torrent-to-Onedrive/blob/main/new_torrents_download_to_onedrive.ipynb
-sinhala=https://colab.research.google.com/github/jakiya99/torrent-to-onedrive-sinhala/blob/main/new_torrents_download_to_onedrive_sinhalen.ipynb
+## 1. open colab project  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakiya99/Torrent-to-Onedrive/blob/main/new_torrents_download_to_onedrive.ipynb)
 
 ![Screenshot 2021-04-02 092056 - Copy](https://user-images.githubusercontent.com/67457538/113385750-5bdd0e00-93a6-11eb-9718-ef41356ee373.png)
 
 
-2.Copy to googledrive
-
-![Screenshot 2021-04-02 111322](https://user-images.githubusercontent.com/67457538/113385828-83cc7180-93a6-11eb-96e3-e6f1b6a9233c.png)
-
-3.Then sign in to your google account
-
-
-![Screenshot 2021-04-02 092152](https://user-images.githubusercontent.com/67457538/113385930-b70f0080-93a6-11eb-872a-c7be62847f30.png)
-
-4.Sign in google
-
-
-![Screenshot 2021-04-02 092253](https://user-images.githubusercontent.com/67457538/113385956-cbeb9400-93a6-11eb-8f4a-d7ce0e5835d5.png)
-
-
-5.Run command
+## 2.Run command
 
 ![Screenshot 2021-04-02 092056](https://user-images.githubusercontent.com/67457538/113386666-58e31d00-93a8-11eb-9a8e-509ebc8cfb98.png)
 
-6.Run anyway
+## 3.Run anyway
 
 ![Screenshot 2021-04-02 092438](https://user-images.githubusercontent.com/67457538/113386747-83cd7100-93a8-11eb-9965-b6ef4f462da2.png)
 
-7.Connecting
+## 4.Connecting
 
 ![Screenshot 2021-04-02 113415](https://user-images.githubusercontent.com/67457538/113386871-c8590c80-93a8-11eb-8692-64aeafc32f6c.png)
 
-8.Connected Sucessfully
+## 5.Connected Sucessfully
 
 ![fh](https://user-images.githubusercontent.com/67457538/113386923-e45cae00-93a8-11eb-9662-8aa4be0c2e9f.png)
 
-9.Now running Shell
+## 6.Now running Shell
 
 ![Screenshot 2021-04-02 092526](https://user-images.githubusercontent.com/67457538/113387010-0f470200-93a9-11eb-8dcc-8f919a8d7cd0.png)
 
-10.Run Suceesfully
-
-![Screenshot 2021-04-02 092615](https://user-images.githubusercontent.com/67457538/113387044-2554c280-93a9-11eb-981d-56a2dfbb0e15.png)
-
-11.Rclone config
+## 7.Rclone config
 
 ![Screenshot 2021-04-02 092709](https://user-images.githubusercontent.com/67457538/113387131-51704380-93a9-11eb-82f6-a29555fe03fe.png)
 
 12.![Screenshot 2021-04-02 092737](https://user-images.githubusercontent.com/67457538/113387187-6a78f480-93a9-11eb-8e31-b6ac651d251c.png)
 
-13.click on box 
+## 8.click on box 
 
 ![Screenshot 2021-04-02 092800](https://user-images.githubusercontent.com/67457538/113387199-74025c80-93a9-11eb-86c8-01109c02f4ee.png)
 
-14.type 'n' (newremote)
+## 9.type 'n' (newremote)
 
 
 ![Screenshot 2021-04-02 092846](https://user-images.githubusercontent.com/67457538/113387206-782e7a00-93a9-11eb-8db9-61cea1f0ffb0.png)
 
 
 
-15.type 'onedrive' 
+## 10.type 'onedrive' 
 
 
 ![Screenshot 2021-04-02 092914](https://user-images.githubusercontent.com/67457538/113387299-a90eaf00-93a9-11eb-97cc-7f21e6165abe.png)
 
 
 
-16.Type '23' (storage onedrive)
+## 11.Type '23' (storage onedrive)
 
 ![Screenshot 2021-04-02 093003](https://user-images.githubusercontent.com/67457538/113387337-c04d9c80-93a9-11eb-814e-908d1b2844eb.png)
 
@@ -78,11 +57,11 @@ sinhala=https://colab.research.google.com/github/jakiya99/torrent-to-onedrive-si
 ![Screenshot 2021-04-02 093035](https://user-images.githubusercontent.com/67457538/113387412-e5420f80-93a9-11eb-877e-7f48530308f7.png)
 
 
-17.Hit enter (dont type anything just a blank)
+## 12.Hit enter (dont type anything just a blank)
 
 ![Screenshot 2021-04-02 093101](https://user-images.githubusercontent.com/67457538/113387438-f3902b80-93a9-11eb-8f68-e57e0508f099.png)
 
-18.Again enter
+## 13.Again enter
 
 ![Screenshot 2021-04-02 093125](https://user-images.githubusercontent.com/67457538/113387527-1d495280-93aa-11eb-83ea-521c0f056acc.png)
 
